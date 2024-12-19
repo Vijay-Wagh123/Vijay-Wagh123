@@ -1,12 +1,10 @@
-# 👋 Hi there, I'm Vijay Gorakh Wagh!  
+# 👋 Hi there, I'm Vijay Wagh!  
 
 ## 🚀 About Me  
-- 🌱 **Currently Learning**: Computer Science Engineering (Final Year).  
-- 🏆 **Achievements**: Ranked in the **Top 10 in college** on GeeksforGeeks with **650+ problems solved**.  
-- 👔 **Role**: President of the Computer Science Engineering Department at Rajarambapu Institute of Technology.  
-- 💻 **Expertise**: Java Development, Spring Boot, MySQL, Azure Cloud.  
-- 🎯 **Goal**: To excel as a Software Developer and contribute to impactful projects.  
-- 🤝 **Open To**: Collaboration on software engineering projects, backend development, and cloud solutions.  
+- 🏆 **Rank**: Top 10 in college on GeeksforGeeks with **650+ problems solved**.  
+- 👔 **Role**: Coder.  
+- 🌱 **Currently Exploring**: Advanced problem-solving strategies, backend development with Spring Boot, and cloud computing on Azure and improving frontend design with React.  
+- 🎯 **Goal**: To consistently develop impactful software solutions while mastering emerging technologies.   
 
 ---
 
@@ -15,8 +13,8 @@
 ### **Programming Languages**  
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 
 ### **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
@@ -33,4 +31,3 @@
 - **LinkedIn** 🤝: [Vijay Wagh](https://www.linkedin.com/in/vijay-wagh-b5197626a)  
 - **GitHub**: [Vijay-Wagh123](https://github.com/Vijay-Wagh123)  
 - **Email** 📧: [vijuwagh33@gmail.com](mailto:vijuwagh33@gmail.com)  
-
