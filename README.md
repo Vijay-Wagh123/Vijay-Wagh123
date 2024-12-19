@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 - 🏆 **Rank**: Top 10 in college on GeeksforGeeks with **650+ problems solved**.  
 - 👔 **Role**: Coder.  
-- 🌱 **Currently Exploring**: Advanced problem-solving strategies, backend development with Spring Boot, and cloud computing on Azure and improving frontend design with React.  
+- 🌱 **Currently Exploring**: Advanced problem-solving strategies, backend development with Spring Boot,cloud computing on Azure and improving frontend design with React.  
 - 🎯 **Goal**: To consistently develop impactful software solutions while mastering emerging technologies.   
 
 ---
@@ -30,4 +30,4 @@
 - **Instagram** 📸: [viju_wagh33](https://www.instagram.com/stories/viju_wagh33/)  
 - **LinkedIn** 🤝: [Vijay Wagh](https://www.linkedin.com/in/vijay-wagh-b5197626a)  
 - **GitHub**: [Vijay-Wagh123](https://github.com/Vijay-Wagh123)  
-- **Email** 📧: [vijuwagh33@gmail.com](mailto:vijuwagh33@gmail.com)  
+- **Email** 📧: [vijuwagh33@gmail.com](mailto:vijuwagh33@gmail.com)
